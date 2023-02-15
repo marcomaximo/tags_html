@@ -1,2 +1,2 @@
 # tags_html
-Principais tags do HTML
+Principais tags do HTML + CSS
