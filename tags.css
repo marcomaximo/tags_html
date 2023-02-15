@@ -1,0 +1,9 @@
+.botao {
+    background-color: rgb(40,40,40);
+    font-family: Bebas Neue Pro;
+    text-decoration: none;
+    color: lightblue;
+    font-size: 17px;
+    border-radius: 5px;
+    padding: 10px
+}
